@@ -1,3 +1,13 @@
+
+
+In React we have two types of components : class and funtional
+
+We are moving from class components to functional components in React because :
+
+    =>Class components have a proper structure like constructor and this keyword which is tricky to use , in case of fucntional component we dont have to follow any such structure.
+    =>Since JS is a functional programming language , so classes are not that much preferred
+    =>Functional component is faster in execution compared to class
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
